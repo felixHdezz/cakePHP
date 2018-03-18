@@ -38,7 +38,7 @@ class Sqlserver extends Driver
         'host' => 'localhost\SQLEXPRESS',
         'username' => '',
         'password' => '',
-        'database' => 'cake',
+        'database' => 'chat',
         'port' => '',
         // PDO::SQLSRV_ENCODING_UTF8
         'encoding' => 65001,
